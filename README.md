@@ -1,5 +1,5 @@
 # 这是搬运自X的一个博主的方法论，在github没有找到对应的仓库，所以用Claude直接做了一个skill，侵删；
-# 原文链接：https://waytoagi.feishu.cn/wiki/YobbwjzFdiYxNVkHjuZcio2Cnhh 
+# 原文链接：https://x.com/heynavtoor/status/2069730505541693951 
 
 
 # 费曼学习法 Skill for Claude
